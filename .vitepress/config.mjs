@@ -28,11 +28,11 @@ export default defineConfig({
       },{
         text: '角色设定',
         items: [
-          { text: '泥塑 (逆苏)', link: '/character/idealization' },
+          /* { text: '泥塑 (逆苏)', link: '/character/idealization' },
           { text: '性转', link: '/character/sex-transform' },
           { text: '原设', link: '/character/canon' },
           { text: 'OOC', link: '/character/ooc' },
-          { text: 'OC', link: '/character/oc' },
+          { text: 'OC', link: '/character/oc' }, */
         ]
       },{
         text: '背景设定',
@@ -44,11 +44,11 @@ export default defineConfig({
       },{
         text: 'CP & CB',
         items: [
-          { text: 'CP', link: '/relation/cp' },
-          { text: 'CB', link: '/relation/cb' },
-          { text: '左 / 右 向 (攻受)', link: '/relation/left-right' },
-          { text: '无差 / 互攻', link: '/relation/no-role-difference' },
-          { text: 'all 向', link: '/relation/all-ships' },
+          // { text: 'CP', link: '/relation/cp' },
+          // { text: 'CB', link: '/relation/cb' },
+          // { text: '左 / 右 向 (攻受)', link: '/relation/left-right' },
+          // { text: '无差 / 互攻', link: '/relation/no-role-difference' },
+          // { text: 'all 向', link: '/relation/all-ships' },
           { text: '骨科', link: '/relation/incest' },
           { text: '弯恋直', link: '/relation/queer-straight' },
           { text: '深柜', link: '/relation/deep-in-closet' },
@@ -60,9 +60,9 @@ export default defineConfig({
         items: [
           { text: '推', link: '/fan-action/oshi'},
           { text: '拆家 & 逆家 (拆逆)', link: '/fan-action/anti-cp'},
-          { text: '梦女 & 梦男', link: '/fan-action/dream-fan'},
-          { text: '毒唯', link: '/fan-action/solo-fan'},
-          { text: 'Ky', link: '/fan-action/ky'},
+          // { text: '梦女 & 梦男', link: '/fan-action/dream-fan'},
+          // { text: '毒唯', link: '/fan-action/solo-fan'},
+          // { text: 'Ky', link: '/fan-action/ky'},
           { text: '公公 / 嬷嬷', link: '/fan-action/gonggong-momo.md'},
         ]
       }

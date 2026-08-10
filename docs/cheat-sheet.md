@@ -23,12 +23,6 @@ description: 术语速查表兼索引
 
 ## 角色设定
 
-- [泥塑](/character/idealization) **未完成**
-- [性转](/character/sex-transform) **未完成**
-- [原设](/character/canon) **未完成**
-- [OOC](/character/ooc) **未完成**
-- [OC](/character/oc) **未完成**
-
 ## 背景设定
 
 - [AU & pa](/background/au-pa)
@@ -47,15 +41,6 @@ description: 术语速查表兼索引
 
 ## CP & CB
 
-- [CP](/relation/cb) **未完成**
-- [CB](/relation/cp) **未完成**
-- [左 / 右 向 (攻受)](/relation/left-right) **未完成**
-  - [左 / 攻](/relation/left-right)
-  - [右 / 受](/relation/left-right)
-- [无差 / 互攻](/relation/no-role-difference) **未完成**
-  - [无差](/relation/no-role-difference)
-  - [互攻](/relation/no-role-difference)
-- [all 向](/relation/all-ships) **未完成**
 - [骨科](/relation/incest)
   - [伪骨科](/relation/incest#%E4%BC%AA%E9%AA%A8%E7%A7%91)
 - [弯恋直](/relation/queer-straight)
@@ -71,7 +56,4 @@ description: 术语速查表兼索引
 
 - [推](/fan-action/oshi)
 - [拆家 & 逆家 (拆逆)](/fan-action/anti-cp)
-- [梦女 & 梦男](/fan-action/dream-fan) **未完成**
-- [毒唯](/fan-action/solo-fan) **未完成**
-- [Ky](/fan-action/ky) **未完成**
 - [公公 / 嬷嬷](/fan-action/gonggong-momo.md)
