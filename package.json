@@ -6,9 +6,10 @@
     "serve": "vitepress preview . --host=0.0.0.0"
   },
   "devDependencies": {
+    "sass": "^1.108.1",
     "vitepress": "2.0.0-alpha.17"
   },
   "dependencies": {
-    "vue": "^3.5.30"
+    "vue": "^3.5.45"
   }
 }
